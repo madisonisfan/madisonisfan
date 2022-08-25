@@ -11,7 +11,7 @@ After spending 2 years in college I decided to challenge myself with the self-ta
 
 I have touched on many subjects but my main focuses are React and SwiftUI. 
 
-At the moment, I am adding new features to my iOS app, TrainrAI. I am also building a very simple portfolio website to display my education, experience, and skills.
+At the moment, I am adding new features to my iOS app, TrainrAI. I am also building a very simple [portfolio website](https://github.com/madisonisfan/Portfolio-Website-Simple) to display my education, experience, and skills.
 
 I am very open to collaborating on a variety of projects, but I would like to focus on improving my skills and challenging myself with React and SwiftUI.
 
